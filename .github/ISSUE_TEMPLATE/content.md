@@ -1,6 +1,6 @@
 ---
 name: Content
-about: Submit an issue about W3C website content
+about: Submit an issue about DME website content
 title: ''
 labels: content
 assignees: ''
