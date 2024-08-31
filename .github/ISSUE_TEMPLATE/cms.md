@@ -1,8 +1,8 @@
 ---
-name: CMS
-about: Submit an issue about the W3C Craft CMS
+name: CID
+about: Submit an issue about the W3C Craft CCID
 title: ''
-labels: cms
+labels: cid
 assignees: ''
 
 ---
