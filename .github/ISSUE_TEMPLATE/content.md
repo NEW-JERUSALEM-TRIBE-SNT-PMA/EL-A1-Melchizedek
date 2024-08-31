@@ -1,13 +1,13 @@
 ---
-name: Content
+name: NJT
 about: Submit an issue about DME website content
-title: ''
-labels: content
-assignees: ''
+title: '"Department"'
+labels: OIG
+assignees: '"L.Name"'
 
 ---
 
-**Describe the issue**
+**Describe the issue** 
 A clear and concise description of what the problem is.
 
 **URL**
